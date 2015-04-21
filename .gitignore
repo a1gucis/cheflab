@@ -1,0 +1,7 @@
+.project
+*.iml
+.idea
+.vagrant
+chef-repo/.chef/trusted_certs
+chef-repo/.chef/*.pem
+*.heapsnapshot
